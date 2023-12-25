@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="table_style.css" /> 
+ <title>Zabelin KSP217</Title>
+</head>
+
+<body>
+<table>
+<caption>Города</caption> 
+<thead>
+<tr>
+  <th rowspan="2">№</td>
+  <th colspan="2">Название</td>
+  <th rowspan="2" colspan="2">Статья</td>
+</tr>
+<tr>
+  <th>ru</td>
+  <th>en</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>Москва</td>
+  <td>Moscow</td>
+  <td><a href="https://ru.wikipedia.org/wiki/Москва">Википедия</a></td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td>Тамбов</td>
+  <td>Tambov</td>
+  <td><a href="https://ru.wikipedia.org/wiki/Тамбов">Википедия</a></td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>С.Петербург</td>
+  <td>S.Petersburg</td>
+  <td><a href="https://ru.wikipedia.org/wiki/Санкт-Петербург">Википедия</a></td>
+<tr>
+  <td>4</td>
+  <td>Воронеж</td>
+  <td>Voronezh</td>
+  <td><a href="https://ru.wikipedia.org/wiki/Воронеж">Википедия</a></td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>Смоленск</td>
+  <td>Smolensk</td>
+  <td><a href="https://ru.wikipedia.org/wiki/Смоленск">Википедия</a></td>
+</tr>
+</tr>
+</tbody>
+</table>
+
+</body>
+
+</html>
